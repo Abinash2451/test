@@ -1,0 +1,19 @@
+body{
+    color:azure;
+}
+h1{
+    font-size: 40px;
+    color: #0728E7;
+}
+.big{
+    font-size: 100px;   /*all elements of class big I declare a font size of 100px*/
+}
+h1 span{
+    color: blueviolet;
+}
+span{
+    color:aquamarine; font-size: 50px ;
+}
+h2 span{
+    color:hotpink    ; font-size: 70px ;
+}
