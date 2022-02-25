@@ -1,0 +1,26 @@
+body{
+    margin:10px;
+    background-color: black;   
+    color: white;
+}
+header {
+    color: brown;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+header img{
+    border-radius: 150px;
+    border: 10px solid #ffffff;
+    
+}
+main h2{
+    color:brown;
+}
+main p{
+    color:rgb(42, 165, 58);
+}
+main img{
+    margin: 22px;
+}
